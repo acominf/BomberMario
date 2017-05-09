@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# BomberMario
 
-You can use the [editor on GitHub](https://github.com/acominf/BomberMario/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Objetivo del juego/aplicación
+El objetivo del juego/aplicación es ...
+
+### Descripción del juego/aplicación
+La descripción del juego/aplicación es ...
+
+### Clases principales y sus características
+1. Clase 1
+* caracteristica1
+* caracteristica2
+* caracteristica3
+
+2. Clase 2
+* caracteristica1
+* caracteristica2
+* caracteristica3
+
+3. Clase 3
+* caracteristica1
+* caracteristica2
+* caracteristica3
+
+4. Clase 4
+* caracteristica1
+* caracteristica2
+* caracteristica3
+
+5. Clase 5
+* caracteristica1
+* caracteristica2
+* caracteristica3
+
+### Diagrama de clases
+![Diagrama de clases](url-del-diagrama.png)
+
+### Autor(es)
+El autor(es) del proyecto son:
+- Nombre completo del autor 1 (@nombreUsuarioGitHub)
+- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+
+### Materia(s)
+- Programación Orientada a Objetos
+
+### Semestre
+- 2016-2017/II
+
+### Universidad Autónoma de San Luis Potosí, 2017
 
 ### Markdown
+El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado _Markdown_. **Para modificar el contenido de esta página se tiene que editar el archivo README.md del repositorio**. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acominf/BomberMario/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Temas de Jekyll
+El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
