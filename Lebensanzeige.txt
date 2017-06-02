@@ -1,0 +1,37 @@
+/**
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+import java.awt.Color;
+
+
+public class Lebensanzeige extends Actor
+{
+    int leben = 3;
+    public void act() 
+    //ruft die Anzeige auf .Ben.Arne
+    {
+     updateBoard();
+    }   
+       
+    private void updateBoard() 
+    //definiert die Anzeige .Ben.Arne
+    {    
+        setImage(new GreenfootImage("Lives remaining: " + leben, 20, Color.black, new Color(0, 0, 0, 0)));    
+    } 
+    
+    public void livesdown()
+    //setzt Leben runter,  wenn kein Leben mehr da, rufe gameover auf .Ben.Arne
+    {
+        leben--;
+        if (leben == 0)
+        {
+            gameover();
+        }
+    }
+    
+    public void gameover()
+    //Beende das Spiel .Arne.Ben
+    {
+          Greenfoot.stop();
+    }
+}
+*/

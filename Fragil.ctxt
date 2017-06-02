@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fragil
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ wood\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \ Habe\ jetzt\ mal\ Holz\ als\ zerst\u00F6rbares\ Objekt\ hinzugef\u00FCgt.\ Finde\ es\ iwie\ sch\u00F6ner\ als\ Gras\ zu\ verwenden\r\n\ \ Finde\ es\ iwie\ sch\u00F6ner\ als\ Gras\ zu\ verwenden.\r\n
+numComments=2
