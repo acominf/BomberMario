@@ -1,6 +1,6 @@
 # BomberMario
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://github.com/acominf/BomberMario/blob/master/images/Estrella_mario.png)
 
 ### Objetivo del juego/aplicación
 El objetivo del juego/aplicación es ...
